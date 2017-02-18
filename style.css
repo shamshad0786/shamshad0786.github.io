@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+    background-image: url("http://www.logou-therapeia.gr/images/lg_bg5.jpg");
+    }
+
+
+.center {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 300%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    height: 200px;
+}
+
+.red-text {
+    color: red;
+  
+    font-family: Lobster, Monospace;
+}
+.yellow{
+    color:yellow;
+}
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+
+  .thick-green-border {
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+
